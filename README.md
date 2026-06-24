@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thilangi 👋</h1>
 
 <p align="center">
-  Senior QA Engineer &amp; Product Manager &nbsp;|&nbsp; AI-Augmented Testing &nbsp;
+  Senior QA Engineer &nbsp;|&nbsp; AI-Augmented Testing &nbsp;
 </p>
 
 <p align="center">
